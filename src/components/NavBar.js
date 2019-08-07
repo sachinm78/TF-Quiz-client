@@ -7,6 +7,10 @@ const NavBar = () => {
             <Link to='/' className='item'>
                 Home
             </Link>
+            <br/>
+            <Link to='/categories' className='item'>
+                Categories
+            </Link>
         </div>
     )
   }
