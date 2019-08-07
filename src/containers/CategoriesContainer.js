@@ -15,7 +15,11 @@ export default class CategoriesContainer extends Component {
 
     render() {
         // if (categories.length === 0) {
-            return <h1>Loading...</h1>
+        return (
+            <div className = 'studyComponent'>
+                <h1>Select a category from the List.</h1>   
+            </div>
+        )
         // }
           
     }
