@@ -1,3 +1,7 @@
 import React from "react"
 
-export default () => <h1>Home</h1>
+export default () => 
+    <div>
+        <h1>Welcome to TF-Quiz!</h1>
+        <p></p>
+    </div>

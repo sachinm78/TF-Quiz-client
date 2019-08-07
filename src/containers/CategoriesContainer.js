@@ -3,9 +3,9 @@ import React, { Component } from 'react'
 
 export default class CategoriesContainer extends Component {
 
-    state = {
-        categories: []
-    }
+    // state = {
+    //     categories: []
+    // }
 
     // componentDidMount() {
     //     fetch('http://localhost:3001')
