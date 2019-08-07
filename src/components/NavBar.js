@@ -6,7 +6,7 @@ const NavBar = () => {
         <div className = "navigationWrapper">
             <div className = "linksWrapper">
                 <Link to = '/' className = 'navLink' activeClassName = 'activeLink'>Home</Link>
-                <Link to = '/categroies' className = 'navLink' activeClassName = 'activeLink'>Categories</Link>
+                <Link to = '/categories' className = 'navLink' activeClassName = 'activeLink'>Categories</Link>
             </div>
         </div>
     )
